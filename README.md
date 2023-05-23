@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Angela 
 
 <!--
 **ANGELAJOSE-NEW/ANGELAJOSE-NEW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me
+I am a hardworking and energetic CSE Engineering student from Model Engineering College, Thrikkakkara. I love coding and is currently shaping my skills on web development. Other than coding I am good in managing events and building communications.![Uploading gmail.svg…]()
